@@ -6,3 +6,7 @@
     width: 350px;
     margin: 0 auto;
 }
+
+.carousel-inner img {
+    max-width: 400px;
+}
